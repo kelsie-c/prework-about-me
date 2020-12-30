@@ -33,8 +33,13 @@ body {
 }
 
 .p1 {
-  font-family: 'Dancing Script', cursive;
-  font-size: 5em;
+    font-family: 'Dancing Script', cursive;
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    font-weight: 300;
+    letter-spacing: 0.05em;
 }
 
 .details {
